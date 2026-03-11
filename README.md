@@ -41,6 +41,7 @@ English, Spanish, French, German, Italian, Portuguese, Russian, Japanese, Korean
 | `/translate config` | Shows your current language settings |
 
 ## Dependencies
-
 - [discord.js](https://discord.js.org/) v14+
 - [translate-google](https://www.npmjs.com/package/translate-google)
+- [Plex Staff](https://plexdevelopment.net/) *(required)*
+- [Plex Tickets](https://plexdevelopment.net/) *(required)*
