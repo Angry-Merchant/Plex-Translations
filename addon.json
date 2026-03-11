@@ -5,6 +5,7 @@
   "author": "Your Name",
   "main": "index.js",
   "commands": ["translate"],
+  "requires": ["plex-staff", "plex-tickets"],
   "dependencies": {
     "translate-google": "^1.5.0"
   }

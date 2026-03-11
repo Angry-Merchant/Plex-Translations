@@ -4,6 +4,10 @@
   "description": "Auto-translate messages to your preferred language",
   "author": "Your Name",
   "main": "index.js",
+  "peerDependencies": {
+    "plex-staff": "*",
+    "plex-tickets": "*"
+  },
   "dependencies": {
     "translate-google": "^1.5.0"
   }
