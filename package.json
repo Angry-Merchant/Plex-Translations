@@ -1,0 +1,10 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "Auto-translate messages to your preferred language",
+  "author": "Your Name",
+  "main": "index.js",
+  "dependencies": {
+    "translate-google": "^1.5.0"
+  }
+}
